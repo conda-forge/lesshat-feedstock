@@ -15,12 +15,15 @@ Smart LESS CSS mixins library.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/lesshat-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/lesshat-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/lesshat-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/lesshat-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/lesshat/badges/version.svg)](https://anaconda.org/conda-forge/lesshat)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/lesshat/badges/downloads.svg)](https://anaconda.org/conda-forge/lesshat)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-lesshat-green.svg)](https://anaconda.org/conda-forge/lesshat) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/lesshat.svg)](https://anaconda.org/conda-forge/lesshat) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/lesshat.svg)](https://anaconda.org/conda-forge/lesshat) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/lesshat.svg)](https://anaconda.org/conda-forge/lesshat) |
 
 Installing lesshat
 ==================
